@@ -1,2 +1,2 @@
-# testrepo
-practicing
+# repository for prctice
+practicing for good
